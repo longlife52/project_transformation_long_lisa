@@ -1,0 +1,4 @@
+#set the default behavior in case people do not have core.autocrlfset
+#https://help.github.com/articles/deatlin-with-line-ending/
+
+*text=auto
