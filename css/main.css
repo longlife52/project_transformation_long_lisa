@@ -72,6 +72,13 @@ a {
     text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
 }
 
+#logo a {
+    border: none;
+    background: none;
+    text-decoration: none;
+    color: #000000;
+}
+
 /* Menu */
 #menu {
     float: right;
