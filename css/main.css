@@ -454,10 +454,12 @@ a {
 }
 
 #banner {
-    margin: 0 auto;
-    width: 1000px;
-    height: 340px;
-    background: url(../img/img03.png) no-repeat left bottom;
+    box-shadow: 0 0 20px 0 #a9a9a9;
+}
+
+#banner img {
+    height: auto;
+    width: 100%;
 }
 
 .list-style1 {
