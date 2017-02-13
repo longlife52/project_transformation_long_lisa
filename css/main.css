@@ -48,8 +48,6 @@ a {
 
 /* Header */
 #header {
-    width: 1000px;
-    height: 150px;
     margin: 0 auto;
     padding: 0 0;
 }
@@ -185,7 +183,6 @@ a {
 
 /* Page */
 #page {
-    width: 1000px;
     margin: 0 auto;
     padding: 30px 0;
 }
@@ -327,67 +324,6 @@ a {
 
 #sidebar a:hover {
     text-decoration: underline;
-}
-
-/* Three Column Footer Content */
-#footer-content {
-    overflow: hidden;
-    width: 1000px;
-    margin: 0 auto;
-    color: #d6e2f0;
-}
-
-#footer-content a {
-    color: #92a9b6;
-}
-
-#footer-bg {
-    overflow: hidden;
-    padding: 30px 0;
-    background: #e8e8e8;
-}
-
-#footer-content h2 {
-    margin: 0;
-    padding: 0 0 20px 0;
-    letter-spacing: -1px;
-    font-size: 26px;
-    color: #262626;
-}
-
-#footer-content
-#fbox1 {
-    float: left;
-    width: 300px;
-    margin-right: 50px;
-}
-
-#footer-content
-#fbox2 {
-    float: left;
-    width: 300px;
-}
-
-#footer-content
-#fbox3 {
-    float: right;
-    width: 300px;
-}
-
-#column1 {
-    float: left;
-    width: 290px;
-    margin-right: 30px;
-}
-
-#column2 {
-    float: left;
-    width: 280px;
-}
-
-#column3 {
-    float: right;
-    width: 260px;
 }
 
 /* Footer */
