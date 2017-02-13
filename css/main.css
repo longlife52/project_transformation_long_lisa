@@ -123,6 +123,16 @@ a {
     color: #ffffff;
 }
 
+/* Banner */
+#banner {
+    box-shadow: 0 0 20px 0 #a9a9a9;
+}
+
+#banner img {
+    height: auto;
+    width: 100%;
+}
+
 /* Page */
 #page {
     margin: 0 auto;
@@ -289,13 +299,4 @@ a {
 
 #footer a {
     color: #5e5e5e;
-}
-
-#banner {
-    box-shadow: 0 0 20px 0 #a9a9a9;
-}
-
-#banner img {
-    height: auto;
-    width: 100%;
 }
