@@ -1,3 +1,13 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -40,6 +50,10 @@ ol {
 
 a {
     color: #5e5e5e;
+}
+
+.site-container {
+    max-width: 1200px;
 }
 
 #wrapper {
