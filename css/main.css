@@ -185,6 +185,12 @@ a {
     padding: 0;
 }
 
+.group::after {
+    content: '';
+    clear: both;
+    display: block;
+}
+
 .post {
     margin-bottom: 2.5em;
     border-bottom: 0.0625em solid #e7ebed;
