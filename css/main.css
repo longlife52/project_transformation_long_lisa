@@ -65,9 +65,9 @@ a {
 }
 
 #logo h1 {
-    line-height: 120px;
     letter-spacing: -2px;
     font-size: 3.8em;
+    padding: 0.25em 0 0.25em 0;
 }
 
 #logo h1 a {
