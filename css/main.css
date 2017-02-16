@@ -72,7 +72,7 @@ a {
 
 #logo h1 a {
     color: #1f1f1f;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+    text-shadow: 0.0625em 0.0625em 0 rgba(0, 0, 0, 0.2);
 }
 
 #logo a {
@@ -97,11 +97,11 @@ a {
 
 #menu a {
     display: block;
-    margin-right: 1px;
+    margin-right: 0.0625em;
     padding: 1.25em 1.25em;
     text-decoration: none;
     text-align: center;
-    text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.2);
+    text-shadow: 0.0625em 0.0625em 0 rgba(0, 0, 0, 0.2);
     text-transform: uppercase;
     font-family: 'Oswald', sans-serif;
     font-weight: 300;
@@ -147,7 +147,7 @@ a {
 
 /* Banner */
 #banner {
-    box-shadow: 0 0 20px 0 #a9a9a9;
+    box-shadow: 0 0 1.25em 0 #a9a9a9;
 }
 
 #banner img {
@@ -168,13 +168,13 @@ a {
 
 .post {
     overflow: hidden;
-    margin-bottom: 40px;
-    border-bottom: 1px solid #e7ebed;
+    margin-bottom: 2.5em;
+    border-bottom: 0.0625em solid #e7ebed;
 }
 
 .post .title {
-    padding: 7px 0 0 0;
-    letter-spacing: -1px;
+    padding: 0.4375em 0 0 0;
+    letter-spacing: -0.0625em;
 }
 
 .post .title a {
@@ -200,21 +200,21 @@ a {
 }
 
 .post .entry {
-    padding: 0 0 40px 0;
+    padding: 0 0 2.5em 0;
     text-align: justify;
 }
 
 .links {
-    padding-top: 20px;
-    margin-bottom: 30px;
+    padding-top: 1.25em;
+    margin-bottom: 1.875em;
 }
 
 .more {
     display: block;
     float: left;
     width: 88px;
-    padding: 5px 5px;
-    margin-right: 10px;
+    padding: 0.3125em 0.3125em;
+    margin-right: 0.625em;
     background: #222222;
     color: #ffffff;
     text-align: center;
@@ -225,7 +225,7 @@ a {
     display: block;
     float: left;
     width: 88px;
-    padding: 5px 5px;
+    padding: 0.3125em 0.3125em;
     background: #222222;
     color: #ffffff;
     text-align: center;
@@ -247,7 +247,7 @@ a {
 /* Sidebar */
 #sidebar {
     margin: 0;
-    padding: 30px 0 0 0;
+    padding: 1.875em 0 0 0;
 }
 
 #sidebar ul {
@@ -263,38 +263,38 @@ a {
 
 #sidebar li ul {
     margin: 0 0;
-    padding-bottom: 30px;
+    padding-bottom: 1.875em;
 }
 
 #sidebar li li {
-    line-height: 40px;
-    border-bottom: 1px solid #e7ebed;
+    line-height: 2.5em;
+    border-bottom: 0.0625em solid #e7ebed;
     margin: 0;
     border-left: none;
 }
 
 #sidebar li li span {
     display: block;
-    margin-top: -20px;
+    margin-top: -1.25em;
     padding: 0;
-    font-size: 11px;
+    font-size: 0.6875em;
     font-style: italic;
 }
 
 #sidebar li li a {
-    padding: 0 0 0 20px;
+    padding: 0 0 0 1.25em;
     background: url(../img/img04.jpg) no-repeat left 50%;
 }
 
 #sidebar h2 {
-    padding: 0 0 30px 0;
-    letter-spacing: -0.5px;
+    padding: 0 0 1.87em 0;
+    letter-spacing: -0.03125em;
     font-size: 1.8em;
 }
 
 #sidebar p {
     margin: 0;
-    padding: 0 30px 20px 30px;
+    padding: 0 1.875em 1.25em 1.875em;
     text-align: justify;
 }
 
@@ -309,16 +309,16 @@ a {
 /* Footer */
 #footer {
     margin: 0 auto;
-    padding: 50px 0 15px 0;
+    padding: 3.125em 0 1em 0;
     font-family: 'Abel', sans-serif;
 }
 
 #footer p {
     margin: 0;
-    padding-top: 10px;
-    letter-spacing: 1px;
+    padding-top: 0.625em;
+    letter-spacing: 0.0625em;
     line-height: normal;
-    font-size: 14px;
+    font-size: 0.875em;
     text-transform: uppercase;
     text-align: center;
     color: #5e5e5e;
