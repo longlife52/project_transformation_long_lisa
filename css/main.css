@@ -294,7 +294,7 @@ a {
 
 #sidebar li ul {
     margin: 0 0;
-    padding-bottom: 1.875em;
+    padding-bottom: 1.87em;
 }
 
 #sidebar li li {
@@ -318,7 +318,7 @@ a {
 }
 
 #sidebar h2 {
-    padding: 0 0 1.87em 0;
+    padding: 0 0 0.5em 0;
     letter-spacing: -0.03125em;
     font-size: 1.8em;
 }
