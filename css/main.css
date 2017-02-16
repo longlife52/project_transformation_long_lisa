@@ -196,9 +196,8 @@ a {
     border-bottom: 0.0625em solid #e7ebed;
 }
 
-.post
 .title {
-    padding: 0.4375em 0 0 0;
+    padding: 0.625em 0 0 0;
     letter-spacing: -0.0625em;
 }
 
@@ -234,6 +233,10 @@ a {
 .entry {
     padding: 0 0 2.5em 0;
     text-align: justify;
+}
+
+.post + .post {
+    padding-top: 0.5em;
 }
 
 .links {
