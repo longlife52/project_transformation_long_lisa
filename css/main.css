@@ -41,8 +41,7 @@ h3 {
 }
 
 p,
-ul,
-ol {
+ul, {
     margin-top: 0;
     line-height: 180%;
 }
@@ -61,7 +60,6 @@ a {
 
 /* Logo */
 #logo {
-    margin: 0;
     padding-left: 0.5em;
     color: #ffffff;
 }
@@ -186,11 +184,10 @@ a {
 }
 
 .post .meta {
-    margin-bottom: 30px;
-    padding: 10px 0 0 0;
+    margin-bottom: 2em;
+    padding: 0.625em 0 0 0;
     text-align: left;
     font-family: 'Abel', sans-serif;
-    font-size: 16px;
     font-weight: 300;
 }
 
