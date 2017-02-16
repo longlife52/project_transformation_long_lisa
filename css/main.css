@@ -93,7 +93,7 @@ a {
 /* Menu */
 #menu {
     margin: 0 auto;
-    padding: 0;
+    padding-bottom: 1em;
 }
 
 #menu ul {
