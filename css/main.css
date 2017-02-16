@@ -159,12 +159,20 @@ a {
 
 /* Banner */
 #banner {
-    box-shadow: 0 0 1.25em 0 #a9a9a9;
+    margin: auto;
+    height: auto;
+    width: 100%;
+    z-index: -1;
+    background: url(../img/img03.png) no-repeat left bottom;
 }
 
 #banner img {
     height: auto;
     width: 100%;
+    border-bottom: 0.07em solid black;
+    -webkit-box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
+    -moz-box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
 }
 
 /* Page */
@@ -182,18 +190,21 @@ a {
     border-bottom: 0.0625em solid #e7ebed;
 }
 
-.post .title {
+.post
+.title {
     padding: 0.4375em 0 0 0;
     letter-spacing: -0.0625em;
 }
 
-.post .title a {
+.post
+.title a {
     border: none;
     text-decoration: none;
     color: #222222;
 }
 
-.post .meta {
+.post
+.meta {
     margin-bottom: 2em;
     padding: 0.625em 0 0 0;
     text-align: left;
@@ -201,15 +212,20 @@ a {
     font-weight: 300;
 }
 
-.post .meta .date {
+.post
+.meta
+.date {
     float: left;
 }
 
-.post .meta .posted {
+.post
+.meta
+.posted {
     float: right;
 }
 
-.post .entry {
+.post
+.entry {
     padding: 0 0 2.5em 0;
     text-align: justify;
 }
