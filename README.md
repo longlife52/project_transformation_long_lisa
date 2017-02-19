@@ -40,6 +40,8 @@ moved down sidebar to allow more whitespace next content header “Welcome to ke
 I have reviewed the list of deductions for this project and in the syllabus.
 
 ## Comments
+Note: The Atom errors in my project are from code supplied by Richard.  I chose to ignore the errors and maintain the code as it was provided to me.
+
 Whew! This was an intense assignment that took a lot longer than anticipated.  I continue to be grateful that I write and produce for a living.  I do not see myself re-constructing websites for others, ever! I definitely will address my websites over the summer and make them responsive.
 
 I do remain grateful to be learning this content. The exercises are keeping me on my toes and my brain processes faster than it did a year ago!
