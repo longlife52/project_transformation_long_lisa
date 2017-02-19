@@ -3,13 +3,13 @@
 ## Lisa Long - Spring 2017
 
 ## Links
-[Here's my Repo on Github.]()
+[Here's my Repo on Github.](https://github.com/longlife52/project_transformation_long_lisa)
 
-[Checkout this project on my web host.]()
+[Checkout this project on my web host.](http://www.garrisonridge.com/garrisonridge/UF-project-responsive-transformation/)
 
-[A link to this project on W3C's Validator.]()
+[A link to this project on W3C's Validator.](https://validator.w3.org/nu/?doc=http%3A%2F%2Fwww.garrisonridge.com%2Fgarrisonridge%2FUF-project-responsive-transformation%2F)
 
-[A link to this project on the HTLM5 Outliner.]()
+[A link to this project on the HTLM5 Outliner.](https://gsnedders.html5.org/outliner/process.py?url=http%3A%2F%2Fwww.garrisonridge.com%2Fgarrisonridge%2FUF-project-responsive-transformation%2F)
 
 ## Resources
 * [Researched --rebase to change a commit’s wording in git.](https://medium.com/@porteneuve/getting-solid-at-git-rebase-vs-merge-4fa1a48c53aa#.ngv8qqe8h)
@@ -21,10 +21,6 @@
 * [Used this px to em converter.](https://www.w3schools.com/tags/ref_pxtoemconversion.asp)
 
 * [Researched responsive typography.](https://zellwk.com/blog/responsive-typography/)
-
-line-height
-
-moved down sidebar to allow more whitespace next content header “Welcome to keyboard”
 
 * [html5 Outliner](https://gsnedders.html5.org/outliner/)
 
