@@ -213,18 +213,81 @@ a {
     margin: auto;
     height: auto;
     width: 100%;
+    margin-bottom: 0;/*
     z-index: -1;
     background: url(../img/img03.png) no-repeat left bottom;
+    */
 }
 
 #banner img {
     height: auto;
-    width: 100%;
+    width: 100%; /*
     border-bottom: 0.07em solid black;
     -webkit-box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
     -moz-box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
     box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
+    */
 }
+
+/* generated from https://css3gen.com/wp-content/cache/all/box-shadow//index.html */
+.drop-shadow {
+    position: relative;
+    -webkit-box-shadow: 0.1875em 0.75em 0.312em -0.312em rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 0.1875em 0.75em 0.312em -0.312em rgba(50, 50, 50, 0.75);
+    box-shadow: 0.1875em 0.75em 0.312em -0.312em rgba(50, 50, 50, 0.75);
+}
+
+
+/* concept from http://www.prowebdesign.ro/round-brush-like-responsive-drop-shadows-with-css3-and-no-images/
+
+.drop-shadow {
+    position: relative;
+    /* -webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 3em 0 3em rgba(0, 0, 0, 0.3);
+}
+
+.css3-shadow::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    -webkit-box-shadow: 0 0 2em rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0 2em rgba(0, 0, 0, 0.8);
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    width: 80%;
+    height: 50%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    transform: rotate(5deg);
+}
+
+Concept from Richard's email. Code tutorial from nicolasgallagher.com
+.drop-shadow {
+    position: relative;
+    width: 90%;
+}
+
+.drop-shadow::before,
+.drop-shadow::after {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    bottom: 1em;
+    left: 0.625em;
+    width: 50%;
+    height: 20%;
+    box-shadow: 0 1em 0 1em rgba(0, 0, 0, 0.7);
+    border-radius: 2em;
+    transform: rotate(-5deg);
+}
+
+.drop-shadow::after {
+    right: 0.625em;
+    left: auto;
+    transform: rotate(5deg);
+}
+*/
 
 /* Page */
 #page {
