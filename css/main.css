@@ -221,12 +221,7 @@ a {
 
 #banner img {
     height: auto;
-    width: 100%; /*
-    border-bottom: 0.07em solid black;
-    -webkit-box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
-    -moz-box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
-    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.8);
-    */
+    width: 100%;
 }
 
 /* generated from https://css3gen.com/wp-content/cache/all/box-shadow//index.html */
